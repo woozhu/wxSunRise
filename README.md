@@ -1,0 +1,2 @@
+# wxSunRise
+sunrise sunset noon

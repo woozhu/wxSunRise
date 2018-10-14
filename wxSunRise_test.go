@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"testing"
 	"time"
+	."github.com/woozhu/wxSunRise"
 )
 
 var dataSunriseSunset = []struct {
